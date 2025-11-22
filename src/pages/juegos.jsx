@@ -9,7 +9,7 @@ function Juegos() {
     const { addFavorito } = useFavoritos();
     const [juegos, setJuegos] = useState([]);
 
-    // 🔥 Estados para el filtro
+    // Estados para el filtro
     const [precioInput, setPrecioInput] = useState(""); // lo que escribe el usuario
     const [precioMax, setPrecioMax] = useState(null);   // filtro aplicado solo cuando toca el botón
 
