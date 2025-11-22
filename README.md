@@ -15,12 +15,12 @@ Proyecto realizado por **Grupo Pixel Play** para la asignatura *Prácticas Profe
 ---
 
 ## Demo Online  
-**link gitpage**
+https://lorenzarate.github.io/pixelplay-react/
 
 ---
 
 ##  Repositorio  
-**repositorio de GitHub**
+https://github.com/LorenZarate
 
 ---
 
